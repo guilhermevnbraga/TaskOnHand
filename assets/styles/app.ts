@@ -13,8 +13,8 @@ export const styles = StyleSheet.create({
         gap: 10,
         backgroundColor: "#0D0D0D",
         width: "100%",
-        padding: 36,
-        paddingBottom: 69,
+        padding: 57,
+        paddingBottom: 90,
     },
     task: {
         color: "#5E60CE",
@@ -59,6 +59,7 @@ export const styles = StyleSheet.create({
         borderColor: "#0D0D0D",
         borderWidth: 1,
         flex: 1,
+        color: "#F2F2F2",
     },
     infoContainer: {
         flexDirection: "row",
